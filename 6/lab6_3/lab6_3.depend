@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1638895280 source:c:\users\kdfx team\desktop\Практика\ООП\6\lab6_3\figure.cpp
+	<iostream>
+	"figure.h"
+	<locale>
+
+1638894382 c:\users\kdfx team\desktop\Практика\ООП\6\lab6_3\figure.h
+
+1638894386 source:c:\users\kdfx team\desktop\Практика\ООП\6\lab6_3\main.cpp
+	<locale>
+	"figure.h"
+	"new_fig.h"
+	<iostream>
+	<locale>
+
+1638894387 c:\users\kdfx team\desktop\Практика\ООП\6\lab6_3\new_fig.h
+	"figure.h"
+
+1638894389 source:c:\users\kdfx team\desktop\Практика\ООП\6\lab6_3\triangle.cpp
+	"new_fig.h"
+	<cmath>
+	<iostream>
+	<locale>
+
